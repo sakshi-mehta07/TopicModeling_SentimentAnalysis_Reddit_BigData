@@ -1,2 +1,3 @@
-# TopicModeling_SentimentAnalysis_Reddit_BigData
-Analyzing Reddit’s Climate Change Discourse: A Distributed Study of Topic Modeling and Sentiment Analysis Techniques using GCP and PySpark
+# Analyzing Reddit’s Climate Change Discourse: A Distributed Study of Topic Modeling and Sentiment Analysis Techniques using GCP and PySpark
+
+Social media platforms host large-scale discussions that reflect public opinion on global issues. In this project, we develop a distributed pipeline using Apache Spark to analyze Reddit climate change discussions. Comparing multiple topic models (LSA, LDA, NMF, BERTopic) and sentiment classifiers (Logistic Regression, Naive Bayes), we select LDA and Logistic Regression for their balance of interpretability and performance. The analysis reveals how themes and sentiment around climate change have evolved over time, offering insights into evolving climate discourse. 
